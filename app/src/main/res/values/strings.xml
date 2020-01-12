@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Biometric Auth</string>
+
+    <string name="btn_attendance">Attendance</string>
+</resources>
